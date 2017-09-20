@@ -1,6 +1,6 @@
 require "language/node"
 
-class KibanaAT44 < Formula
+class KibanaAT46 < Formula
   desc "Analytics and search dashboard for Elasticsearch"
   homepage "https://www.elastic.co/products/kibana"
   url "https://github.com/elastic/kibana.git", :tag => "v4.6.6", :revision => "d344b80b0fe4183467093aedbeed7a5351a0f537"
